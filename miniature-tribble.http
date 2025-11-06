@@ -1,0 +1,6 @@
+@miniature_tribble_HostAddress = http://localhost:5058
+
+GET {{miniature_tribble_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
